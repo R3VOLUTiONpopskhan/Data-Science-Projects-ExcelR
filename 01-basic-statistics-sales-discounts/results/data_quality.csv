@@ -1,0 +1,14 @@
+,dtype,missing,unique
+Date,datetime64[us],0,15
+Day,str,0,7
+SKU,str,0,30
+City,str,0,1
+Volume,int64,0,22
+BU,str,0,3
+Brand,str,0,9
+Model,str,0,30
+Avg Price,int64,0,25
+Total Sales Value,int64,0,135
+Discount Rate (%),float64,0,450
+Discount Amount,float64,0,450
+Net Sales Value,float64,0,450
